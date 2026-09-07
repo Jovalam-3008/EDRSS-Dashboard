@@ -2,6 +2,10 @@
 
 Demo pública del **Early Delinquency Risk Scoring System (EDRSS)**, un sistema de priorización para cobranza temprana de operaciones de microcrédito móvil.
 
+## Aplicación publicada
+
+[Abrir EDRSS Dashboard](https://edrss-dashboard-hjcbxwakvf6js8yn6evnhe.streamlit.app/)
+
 ## Historia del tablero
 
 1. Resumen ejecutivo de la cartera.
